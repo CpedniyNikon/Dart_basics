@@ -1,5 +1,3 @@
-import 'dart:math';
-
 class DigitConverter {
   static String hexToBinary(int digit) {
     StringBuffer buffer = new StringBuffer();
